@@ -5,8 +5,6 @@ import pymysql
 app = Flask(__name__)
 CORS(app)  # 在Flask应用上启用CORS
 
-# 之后是您现有的代码...
-
 
 app = Flask(__name__)
 
